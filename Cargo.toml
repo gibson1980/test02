@@ -1,0 +1,8 @@
+[package]
+name = "test02"
+version = "0.1.0"
+authors = ["gibs"]
+
+[dependencies]
+
+rand="0.3.0"
